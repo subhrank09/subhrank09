@@ -33,14 +33,15 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subhrank09&theme=radical&column=7" alt="subhrank09" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=subhrank09&show_icons=true&theme=radical" alt="Subhrank's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrank09&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhrank09&theme=radical&column=7" alt="subhrank09 trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhrank09&show_icons=true&theme=radical" alt="subhrank09 stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrank09&layout=compact&theme=radical" alt="subhrank09 top langs" />
+</p>
+
 ---
 
 ### 📱 Connect with Me:
