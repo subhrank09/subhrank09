@@ -33,13 +33,13 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhrank09&theme=radical&column=7" alt="subhrank09 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhrank09&theme=radical&column=7&margin-w=15" alt="subhrank09 trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhrank09&show_icons=true&theme=radical" alt="subhrank09 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhrank09&show_icons=true&theme=radical&hide_border=false" alt="subhrank09 stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrank09&layout=compact&theme=radical" alt="subhrank09 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrank09&layout=compact&theme=radical&hide_border=false" alt="subhrank09 top langs" />
 </p>
 
 ---
