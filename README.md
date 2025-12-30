@@ -10,12 +10,12 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on ... **[Your Project Name]**
-- 🌱 I’m currently learning ... **[e.g., React, Go, or Machine Learning]**
+- 🔭 I’m currently working on ... **SKILLFORGE-AI : FUTURE OF  𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
+- 🌱 I’m currently learning ... **Machine Learning**
 - 👯 I’m looking to collaborate on ... **Open Source projects**
-- 💬 Ask me about ... **[Your expertise, e.g., Python, Web Dev]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: ... **[Something about yourself]**
+- 💬 Ask me about ... **WEB DEVELOPMENT** , **MACHINE LEARNING**
+- 📫 How to reach me: **subhrank42official@gmail.com**
+- ⚡ Fun fact: ... **I actually once spent an entire weekend debugging a single line of code... only to realize it was a missing semicolon.**
 
 ---
 
