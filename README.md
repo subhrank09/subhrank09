@@ -10,7 +10,7 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on **SKILLFORGE-AI** **: FUTURE OF  𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
+- 🔭 I’m currently working on **SKILLFORGE-AI**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **WEB DEVELOPMENT** *,* **MACHINE LEARNING**
