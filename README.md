@@ -10,12 +10,12 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on ... **SKILLFORGE-AI : FUTURE OF  𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
-- 🌱 I’m currently learning ... **Machine Learning**
-- 👯 I’m looking to collaborate on ... **Open Source projects**
-- 💬 Ask me about ... **WEB DEVELOPMENT** , **MACHINE LEARNING**
+- 🔭 I’m currently working on **SKILLFORGE-AI** **: FUTURE OF  𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source projects**
+- 💬 Ask me about **WEB DEVELOPMENT** *,* **MACHINE LEARNING**
 - 📫 How to reach me: **subhrank42official@gmail.com**
-- ⚡ Fun fact: ... **I actually once spent an entire weekend debugging a single line of code... only to realize it was a missing semicolon.**
+- ⚡ Fun fact: **I actually once spent an entire weekend debugging a single line of code... only to realize it was a missing semicolon.**
 
 ---
 
@@ -25,7 +25,7 @@ A passionate developer from India 🇮🇳 focused on building impactful project
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
