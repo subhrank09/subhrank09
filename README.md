@@ -48,7 +48,7 @@ A passionate Computer Science undergraduate with research experience in **Deep L
 | 🔬 Research Intern – Computer Vision & Deep Learning | **MANIT Bhopal** | Jun 2026 – Jul 2026 |
 | 💻 Software Engineering Intern | **Tata Steel** | Jun 2025 – Jul 2025 |
 | 🤖 Machine Learning Intern | **Tata Steel** | Jun 2024 – Aug 2024 |
-| 💻 Software Development Intern | **Tata Steel** | Jun 2024 – Aug 2024 |
+| 💻 Software Development Intern | **Zidio Development** | Jun 2024 – Aug 2024 |
 
 ---
 
